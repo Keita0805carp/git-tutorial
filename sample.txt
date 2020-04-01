@@ -1,3 +1,5 @@
 Practice Git
 クローンしたgitclone-testディレクトリで書き込んだ
+<<<<<<< HEAD
 test
+aaaaaaa
