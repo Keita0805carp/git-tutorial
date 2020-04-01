@@ -1,1 +1,2 @@
 Practice Git
+クローンしたgitclone-testディレクトリで書き込んだ
